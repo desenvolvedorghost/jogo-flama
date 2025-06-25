@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: JogoFlama
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 8c9cfa26abfee488c85f1582747f6a02, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 1cda415c298deb0418bd8f3e990f3e3e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6834807438855965581, guid: 47a3d25392f8811479ea41ec9dc6a58e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: f73e3c6bea1539248a66ee3bdaa93b7d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 5d1b82c0308eca645b33dd247e80dad9, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 093a9cceecf85384096482618a86332d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 3600751443443978301, guid: b3840d5abdaef43449e21199629caf87, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 6285bb5d29ea4984f8a25230bc04309a, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 7243315929825383020, guid: 3e621083fb79feb4b809fa983b22940d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2026577617856584117, guid: ce8a8d3edda596f419dfadb6ac00947e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 4120939816fbec64891e4b79da15badc, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: e61eb91741e5f694f806c01b716cbacf, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
